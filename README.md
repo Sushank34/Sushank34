@@ -62,7 +62,7 @@ I am Sushank 😉 from Coimbatore, Tamil Nadu. <!-- A Software Engineer at .--> 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :blush:</em>
 <br>
-Do :star2: my repositories if you find my projects interesting, at least your star could make someone's day:pray:.
+<!--Do :star2: my repositories if you find my projects interesting, at least your star could make someone's day:pray:.-->
 
 <!-- Profile View Count -->
 ![](https://komarev.com/ghpvc/?username=Sushank34&style=flat)
