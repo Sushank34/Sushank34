@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/Sushank34/Sushank34/master/gifs/hand_wave.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/Sushank34/Sushank34/blob/main/assets/hand_wave.gif" width="30px"></h2>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src='https://github.com/Sushank34/Sushank34/blob/main/assets/github.gif' width='200"'>
 
 
 <!-- Your badges -->
@@ -65,4 +65,4 @@ I am Sushank 😉 from Coimbatore, Tamil Nadu. <!-- A Software Engineer at .--> 
 Do :star2: my repositories if you find my projects interesting, at least your star could make someone's day:pray:.
 
 <!-- Profile View Count -->
-![](https://komarev.com/ghpvc/?username=BhanuPrakashNani&style=flat)
+![](https://komarev.com/ghpvc/?username=Sushank34&style=flat)
