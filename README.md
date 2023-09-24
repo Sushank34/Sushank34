@@ -24,12 +24,13 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/-SushankSakthivelNagarajan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sushank-sakthivel-nagarajan-30256617b/)
 [![HackerRank](https://img.shields.io/badge/-SushankSakthivelNagarajan-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/sushank82000)
 [![Gmail](https://img.shields.io/badge/-sushank82000-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sushank82000@gmail.com)
+![](https://komarev.com/ghpvc/?username=Sushank34&color=ff69b4)
 
 I am Sushank 😉 from Rajahmundry, Andhra Pradesh. <!-- A Software Engineer at .--> I am a Computer Science Graduate from Amrita Vishwa Vidyapeetham, Coimbatore, Tamil Nadu 🏫. 
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :blush:</em>
-<br>
 
-<!-- Profile View Count -->
-![](https://komarev.com/ghpvc/?username=Sushank34&style=flat)
+<img align="left" src = "https://github-readme-stats.vercel.app/api?username=Sushank34&show_icons=true&theme=radical&hide_rank=true"/>
+
+<br>
